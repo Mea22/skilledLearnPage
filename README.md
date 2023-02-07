@@ -6,7 +6,7 @@ This is Skilled online learning page
  ### links
   
 - Solution URL: https://github.com/Mea22/skilledLearnPage
-- Live Site URL: https://mea22.github.io/Order-Summary/
+- Live Site URL: https://mea22.github.io/skilledLearnPage/
 
 ### Built with
 
